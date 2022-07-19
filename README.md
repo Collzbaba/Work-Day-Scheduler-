@@ -30,7 +30,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 live URL:
-[LiveUrl] ()
+[LiveUrl](https://collzbaba.github.io/Work-Day-Scheduler-/)
 
 Screenshot:
 ![workdayscheduler](./assets/images/workdayscheduler.png)
